@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jakub Nowicki and I'm a Computer Science and Math student from Poland.</p>
+<p align="left">My name is Jakub Nowicki and I'm a Computer Science and Applied Mathematics student. I am from Poland but I am currently studying in United States.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since High School<br>📚 I'm studying at: University of Evanvsville<br>🎲 Fun fact: I am D1 Track and Field athlete</p>
+<p align="left">✨ Creating bugs since High School<br>📚 I'm studying at: University of Evanvsville<br>🎲 Fun fact: I am D1 Track and Field Athlete</p>
 
 ###
 
