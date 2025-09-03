@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jakub Nowicki and I'm a Computer Science and Applied Mathematics student. I am from Poland but I am currently studying in United States.</p>
+<p align="left">Computer Science & Applied Math Student | D1 Athlete | Future AI Wizard 🏃‍♂️💻.</p>
 
 ###
 
