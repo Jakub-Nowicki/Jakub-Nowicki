@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science & Applied Math Student | D1 Athlete | Future AI Wizard 🏃‍♂️💻.</p>
+<p align="left">Computer Science & Applied Math Student | D1 Athlete </p>
 
 ###
 
